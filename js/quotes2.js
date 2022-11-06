@@ -1,5 +1,9 @@
 const quotes = [
     {
+        quote: "지금 그대가 아는 답이 정답이에요.",
+        author: "-남준-",
+    },    
+    {
         quote: "당신의 꿈이 꿈으로 남지 않길",
         author: "-윤기-",
     },
@@ -34,11 +38,7 @@ const quotes = [
     {
         quote: "여러분들이 저의 우주라는 사실을  잊지 말아주셨으면 좋겠습니다.",
         author: "-남준-",
-    },
-    {
-        quote: "지금 그대가 아는 답이 정답이에요.",
-        author: "-남준-",
-    },
+    }
 ];
 
 const quote = document.querySelector("#quotes span:first-child");
