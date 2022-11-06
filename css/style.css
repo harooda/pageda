@@ -11,7 +11,7 @@ font-family:'Oswald', sans-serif;
 body{width:100%;background:#000;color:#fff;font:16px/28px 'Noto Sans KR', sans-serif;text-transform:uppercase;}
 .inner_wrap{width:1000px;margin:0 auto;position:relative;}
 .hidden{display:none;}
-.page_info{display:flex;justify-content:space-between;padding:5vw 0 4vw;width:100%;min-height:15vw;}
+.page_info{display:flex;justify-content:space-between;padding:3vw 0 2vw;width:100%;min-height:10vw;}
 .page_info .pos_col:last-child{text-align:right;}
 .pos_row{display:flex;justify-content:space-between;font:14px/16px 'Oswald', sans-serif;margin-bottom:15px;min-width:280px;}
 input, button{border:1px solid #fff;padding:0 .2em;line-height:28px;box-sizing:border-box;background-color:#000;border-radius:0;}
